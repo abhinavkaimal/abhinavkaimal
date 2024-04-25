@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, PWA, Nextjs, HTML, CSS, Internationalization**
 
-- 📫 How to reach me **abhinav@vrize.com**
+- 📫 How to reach me **abhinavk@vrize.com**
 
 - ⚡ Fun fact **I believe I am a custom component guru and a optimization wizard**
 
